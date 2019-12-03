@@ -10,10 +10,14 @@
   percentage: 90
   color: dark
   
-- name: PHP/MySQL
-  percentage: 70
+- name: SQL
+  percentage: 90
+  color: primary
+  
+- name: PHP
+  percentage: 60
   color: success
 
 - name: JavaScript
-  percentage: 50
+  percentage: 60
   color: warning
