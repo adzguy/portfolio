@@ -24,7 +24,11 @@ The 25th day, there was a challenge to create an app using what we covered in da
 # Days 26…34: Expanding my skills
 In these days, we will be creating three projects. The first project we created together was a BetterRest app. This app basically does alert your ideal bed time asking you three questions. When do you want to wake up? How many hours of sleep do you want? And how many cups of coffee do you drink a day? I was introduced to DataPicker, Stepper, navigationBarItems, Date, DateComponents, and DateFormatter in SwiftUI. Moreover, I had learnt more about things we can built with using Apple’s frameworks like as Create ML and Core ML. I was familiar with Core ML when I created my Image detection app before SwiftUI. In this project, we created a machine learning model to use in our prediction with the accuracy of 89 percent to our ideal bed time using csv format data using Create ML framework. At the end of this project, the challenge was to change user interface so that it always shows its ideal bed time instead showing alert. You can check on my GitHub repo [here](https://github.com/adzguy/BetterRest){:target="_blank"}. 
 
-Now, more is to come… 
+#Day 35: Consolidation III
+In this day, I have to create my own app called Edutainment which is half educational and other half is entertainment, using skills I have covered so far. Basically, user picks multiplication table and question amount from first or settings layout then presses a Go button which takes to the next layout. Next layout is asking questions according to the inputs on settings layout. At the end user seas the score and able to go home page to restart settings to play. App can be check out in my GitHub page [here](https://github.com/adzguy/Edutainment){:target="_blank"}. 
+
+
+more is about to come…
 
 <!---<p class="text-center">
 {% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
