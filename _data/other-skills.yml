@@ -1,8 +1,8 @@
-- name: UserDefaults/SQLite/CoreData
+- name: UI/UX Design
   percentage: 90
   color: info
 
-- name: Unit Testing
+- name: Testing Software
   percentage: 90
   color: success
   
