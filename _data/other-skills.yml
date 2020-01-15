@@ -1,8 +1,4 @@
 - name: UI/UX Design
   percentage: 90
   color: info
-
-- name: Testing Software
-  percentage: 90
-  color: success
   

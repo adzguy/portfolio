@@ -7,8 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-I have a B.S. degree in Computer Science. I worked in a startup company as a Web Developer. I designed a web interface and site graphics and determined client needs for company site. Currently I am learning SwiftUI, a new framework to develop iOS applications. Thanks for visiting my website!
+My name is **{{ site.author.name }}** . I graduated in fall of 2017 with a  bachelor's degree in Computer Science from the Northeastern Illinois University. I am a mobile app developer who specializes in creating dynamic, functional and beautiful mobile apps. I have been in the field for over 2 years, and have been loving it every minute of it. I am a blogger, developer, and overall thinker. Check out some of the blogs or porjects to see what I have been up to lately.
+
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
