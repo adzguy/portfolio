@@ -15,6 +15,6 @@ My name is **{{ site.author.name }}** . I graduated in fall of 2017 with a  bach
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div> -->
 
-<!-- <div class="row">
+<div class="row">
 {% include about/timeline.html %}
-</div> -->
+</div>
