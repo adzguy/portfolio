@@ -1,19 +1,40 @@
 ---
 title: Re-Engineering vs Refactoring | Software Maintenance
-tags: [My College Postings]
+tags: [Software Development]
 style: fill
 color: dark
-description: They both look like the similar at the beginning, when we deal with the legacy software. Legacy software..
+description: They both look like the similar at the beginning, when we deal with..
 ---
 
-They both look like the similar at the beginning, when we deal with the legacy software. Legacy software is the ones that some programs have been left to run without changes to the broken parts of a system. At either process, refactoring or reengineering, refactoring is used in a first step then progresses to re-engineering. When the legacy code is too complex, refactoring is worthwhile to use to improve the efficiency of the algorithms before stepping on to re-engineering it (2016). 
+<br>
+They both look like the similar at the beginning, when we deal with the legacy
 
-![alt text](http://freesoftwareseries.org/wp-content/uploads/2018/12/outsource-software-maintenance-support.jpg "Software Maintenance")
+software. Legacy software is the ones that some programs have been left to run
 
+without changes to the broken parts of a system. Refactoring is used as a first
 
-However, there are few differences between refactoring and reengineering. One of the main difference is that re-engineering affects the entire system or part of the system and can create a whole new system whereas refactoring has many local effects and improves the structure of an existing system (n.d). In addition, it also makes sense that the cost of re-engineering is higher than refactoring if we consider refactoring is just a local changes in a software structure.
+step before re-engineering processes start. When the legacy code is too complex,
 
+refactoring is worthwhile to use to improve the efficiency of the algorithms
 
+before stepping into re-engineering it (2016).
+
+<br>
+However, there are few differences between refactoring and re-engineering. One
+
+of the main difference is that re-engineering affects the entire system or part
+
+of the system and can create a whole new system whereas refactoring has many
+
+local effects and improves the structure of an existing system (n.d). In
+
+addition, it also makes sense that the cost of re-engineering is higher than
+
+refactoring if we consider refactoring is just a local changes in a software
+
+structure.
+
+<br>
 Reference:
 
 Re-engineering versus refactoring (2016). The Craft Of Coding. Retrieved April 12, 2017, from [here.](https://craftofcoding.wordpress.com/2016/02/23/re-engineering-versus-refactoring/)
