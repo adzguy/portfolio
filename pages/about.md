@@ -5,9 +5,9 @@ permalink: /about/
 weight: 3
 --- -->
 
-# **About Me**
+<!-- # **About Me**
 
-I am **{{ site.author.name }}**. A blogger, software developer, and overall thinker. Check out the articles or the projects section to see what I've been up to lately. Peace!
+I am **{{ site.author.name }}**. A blogger, software developer, and overall thinker. Check out the articles or the projects section to see what I've been up to lately. Peace! -->
 
 <!-- <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
