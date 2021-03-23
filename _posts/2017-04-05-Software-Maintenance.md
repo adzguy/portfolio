@@ -7,32 +7,10 @@ description: They both look like the similar at the beginning, when we deal with
 ---
 
 <br>
-They both look like the similar at the beginning, when we deal with the legacy
-
-software. Legacy software is the ones that some programs have been left to run
-
-without changes to the broken parts of a system. Refactoring is used as a first
-
-step before re-engineering processes start. When the legacy code is too complex,
-
-refactoring is worthwhile to use to improve the efficiency of the algorithms
-
-before stepping into re-engineering it (2016).
+They both look like the similar at the beginning, when we deal with the legacy software. Legacy software is the ones that some programs have been left to run without changes to the broken parts of a system. Refactoring is used as a first step before re-engineering processes start. When the legacy code is too complex, refactoring is worthwhile to use to improve the efficiency of the algorithms before stepping into re-engineering it (2016).
 
 <br>
-However, there are few differences between refactoring and re-engineering. One
-
-of the main difference is that re-engineering affects the entire system or part
-
-of the system and can create a whole new system whereas refactoring has many
-
-local effects and improves the structure of an existing system (n.d). In
-
-addition, it also makes sense that the cost of re-engineering is higher than
-
-refactoring if we consider refactoring is just a local changes in a software
-
-structure.
+However, there are few differences between refactoring and re-engineering. One of the main difference is that re-engineering affects the entire system or part of the system and can create a whole new system whereas refactoring has many local effects and improves the structure of an existing system (n.d). In addition, it also makes sense that the cost of re-engineering is higher than refactoring if we consider refactoring is just a local changes in a software structure.
 
 <br>
 Reference:
