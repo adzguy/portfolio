@@ -15,6 +15,5 @@ They both have its advantages and disadvantages. They both equally important to 
 <br>
 Reference:
 
-Bartlett, J. (2016). What is the difference between black-box and white-box testing? Retrieved April 4, 2017, from [here.](https://blog.testlodge.com/what-is-the-difference-between-black-box-and-white-box-testing/)
-
+Bartlett, J. (2016). What is the difference between black-box and white-box testing? Retrieved April 4, 2017, from [here.](https://blog.testlodge.com/what-is-the-difference-between-black-box-and-white-box-testing/) <br>
 Farcic, V. (n.d). Black-box vs. White-box testing. Technology Conversation. Retrieved April 4, 2017, from [here.](https://technologyconversations.com/2013/12/11/black-box-vs-white-box-testing/)

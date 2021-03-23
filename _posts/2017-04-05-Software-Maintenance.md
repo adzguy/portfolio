@@ -15,6 +15,5 @@ However, there are few differences between refactoring and re-engineering. One o
 <br>
 Reference:
 
-Re-engineering versus refactoring (2016). The Craft Of Coding. Retrieved April 12, 2017, from [here.](https://craftofcoding.wordpress.com/2016/02/23/re-engineering-versus-refactoring/)
-
+Re-engineering versus refactoring (2016). The Craft Of Coding. Retrieved April 12, 2017, from [here.](https://craftofcoding.wordpress.com/2016/02/23/re-engineering-versus-refactoring/) <br>
 Re-engineering vs. Refactoring in software development (n.d.). Retrieved April 13, 2017, from [here.](http://newserverside.blogspot.com/2011/09/re-engineering-vs-refactoring-in.html)

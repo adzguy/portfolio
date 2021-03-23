@@ -16,5 +16,5 @@ According to statistics, as for August 2015, there were more than 24,000 differe
 <br/>
 Reference:
 
-Chak, A. (May 14, 2017). Major Challenges for Mobile Testing. Retrieved April 4, 2017, from [here.](http://www.360logica.com/blog/2014/05/challenges-faced-in-mobile-app-testing.html)
+Chak, A. (May 14, 2017). Major Challenges for Mobile Testing. Retrieved April 4, 2017, from [here.](http://www.360logica.com/blog/2014/05/challenges-faced-in-mobile-app-testing.html) <br>
 Hechtel, E. (August 17, 2016). What are Mobile App Testing Challenges? Retrieved April 4, 2017, from [here.](https://saucelabs.com/blog/what-are-mobile-app-testing-challenges)
