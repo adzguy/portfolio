@@ -21,7 +21,7 @@ Python provides an excellent module to handle the iterators and that is called i
 
 > To find out all the functions in the specific module, type dir(module_name) into the Python interactive session in terminal.
 
-```
+```python
 >>> dir(itertools)
 ['__doc__', '__loader__', '__name__', '__package__', '__spec__', '_grouper', '_tee', '_tee_dataobject', 'accumulate', 'chain', 'combinations', 'combinations_with_replacement', 'compress', 'count', 'cycle', 'dropwhile', 'filterfalse', 'groupby', 'islice', 'permutations', 'product', 'repeat', 'starmap', 'takewhile', 'tee', 'zip_longest']
 ```
@@ -33,7 +33,7 @@ Python provides an excellent module to handle the iterators and that is called i
 <br>
 To find Cartesian Product of three lists:
 
-```
+```python
 >>> import itertools
 >>> A = ['a', 'b']
 >>> B = [1, 2]
@@ -56,7 +56,7 @@ To find Cartesian Product of three lists:
 <br>
 Find length of each items in the String:
 
-```
+```python
 >>> import itertools
 >>>[(k,len(list(v))) for k, v in itertools.groupby('AAAABBBCCDAABBB')]
 [('A', 4), ('B', 3), ('C', 2), ('D', 1), ('A', 2), ('B', 3)]
@@ -69,7 +69,7 @@ Permutations function finds all the permutations (order matters) and returns ite
 
 Find all permutations of the items in the list:
 
-```
+```python
 >>> import itertools
 >>> lst = [0, 1, 2]
 >>> per = itertools.permutations(lst)
@@ -87,7 +87,7 @@ Combinations function finds all the combinations (order does not matter) and ret
 
 Find all permutations of the items in the list:
 
-```
+```python
 >>> import itertools
 >>> lst = [0, 1, 2]
 >>> comb = itertools.combinations(lst)
@@ -98,4 +98,4 @@ Find all permutations of the items in the list:
 
 ```
 
-You can check out the Python documentation on the [itertools](https://docs.python.org/3/library/itertools.html#itertools.groupby) module for more functions.
+You can check out the Python documentation on the [itertools module](https://docs.python.org/3/library/itertools.html#itertools.groupby) for more functions.

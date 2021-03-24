@@ -14,7 +14,7 @@ Functools module provides tools for working with functions and other callable ob
 <br>
 Useful for expensive computed properties of instances that are otherwise effectively immutable. Available in Python 3.8 and above and allows to cache class properties. For versions before 3.8, you can use cache and property decorators. Example:
 
-```
+```python
 from functools import cached_property
 
 class Data:
@@ -32,7 +32,7 @@ class Data:
 
 When we instantiate an object and call it, it returns instantly.
 
-```
+```python
 >>> data = Data(500)
 >>> data.f
 124750000
@@ -47,7 +47,7 @@ The cached value can be cleared by deleting the attribute.
 <br>
 Another useful functool is **lru_cache** which allows you to cache recursive function calls in a least recently used cache such as functions with multiple recursive calls like the [Fibonnacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number). In code:
 
-```
+```python
 from functools import lru_cache
 
 @lru_cache
@@ -62,7 +62,7 @@ def fib(n):
 <br>
 functools.reduce() is useful to apply a function over and over on an iterable to reduce it to one single value. For instance:
 
-```
+```python
 >>> from functools import reduce
 >>> reduce(lambda x, y: x + y, [2, 4, 6, 8]) # (((2 + 4) + 6) + 8)
 20
