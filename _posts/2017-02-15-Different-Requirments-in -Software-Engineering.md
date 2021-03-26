@@ -3,7 +3,7 @@ title: Different levels of Requirements in Software Engineering
 tags: [Software Development]
 style: fill
 color: dark
-description: There are many different types of requirements, which are raised by..
+description: Short answer, College postings..
 ---
 
 <br>

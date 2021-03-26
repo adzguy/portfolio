@@ -3,7 +3,7 @@ title: Re-Engineering vs Refactoring | Software Maintenance
 tags: [Software Development]
 style: fill
 color: dark
-description: They both look like the similar at the beginning, when we deal with..
+description: Short answer, College postings..
 ---
 
 <br>

@@ -3,7 +3,7 @@ title: White-Box vs Black-Box Testing Efficiency | QA
 tags: [Testing]
 style: fill
 color: light
-description: Black-box testing strategy treats software that is under test as a black-box without..
+description: Short answer, College postings..
 ---
 
 <br>

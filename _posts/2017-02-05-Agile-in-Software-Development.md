@@ -3,7 +3,7 @@ title: How agile methods accelerate development and deployment?
 tags: [Software Development]
 style: fill
 color: dark
-description: Agile process methodology in software development has four main principles that distinguish itself from early software process models.
+description: Short answer, College postings..
 ---
 
 <br>

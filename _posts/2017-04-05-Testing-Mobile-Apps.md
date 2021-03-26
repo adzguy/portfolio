@@ -3,7 +3,7 @@ title: Challenges in Mobile Application Testing
 tags: [Testing]
 style: fill
 color: light
-description: There are severals challenging factors that make testing mobile applications harder. These are..
+description: Short answer, College postings..
 ---
 
 <br>
