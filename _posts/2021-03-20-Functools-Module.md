@@ -1,6 +1,6 @@
 ---
 title: functools Module
-tags: [Python's Standard Library]
+tags: [Python]
 style: fill
 color: primary
 description: What is functools module in Python? Today, I will go over some useful higher order functions of functools module..
@@ -68,4 +68,7 @@ functools.reduce() is useful to apply a function over and over on an iterable to
 20
 ```
 
-For more, you can check out the Python documentation on the [functools module](https://docs.python.org/3/library/functools.html).
+<br>
+**See also:**
+
+[functools module](https://docs.python.org/3/library/functools.html) official Python documentation about this module.

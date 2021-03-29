@@ -1,6 +1,6 @@
 ---
 title: itertools Module
-tags: [Python's Standard Library]
+tags: [Python]
 style: fill
 color: primary
 description: What is itertools module for? Today, I will go over itertools module..
@@ -98,4 +98,7 @@ Find all permutations of the items in the list:
 
 ```
 
-You can check out the Python documentation on the [itertools module](https://docs.python.org/3/library/itertools.html#itertools.groupby) for more functions.
+<br>
+**See also:**
+
+[itertools module](https://docs.python.org/3/library/itertools.html#itertools.groupby) in Python documentation for more functions like in the above.
