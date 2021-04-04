@@ -54,5 +54,5 @@ AssertionError: List is empty
 <br>
 **See also:**
 
-[assert statement](https://docs.python.org/3/reference/simple_stmts.html#grammar-token-assert-stmt)
-official documentation to learn more.
+- [assert statement](https://docs.python.org/3/reference/simple_stmts.html#grammar-token-assert-stmt)
+  official documentation to learn more.

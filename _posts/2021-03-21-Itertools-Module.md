@@ -6,7 +6,7 @@ color: primary
 description: What is itertools module for? Today, I will go over itertools module..
 ---
 
-{% include image.html url="/assets/img/posts/loop.jpg"%}
+{% include elements/figure.html url="/assets/img/posts/loop.jpg"%}
 
 <figcaption class="figure-caption text-center">Photo by <a href="https://unsplash.com/@tine999?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tine Ivanič</a> on <a href="https://unsplash.com/s/photos/loop?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></figcaption>
 <br>
@@ -101,4 +101,4 @@ Find all permutations of the items in the list:
 <br>
 **See also:**
 
-[itertools module](https://docs.python.org/3/library/itertools.html#itertools.groupby) in Python documentation for more functions like in the above.
+- [itertools module](https://docs.python.org/3/library/itertools.html#itertools.groupby) in Python documentation for more functions like in the above.

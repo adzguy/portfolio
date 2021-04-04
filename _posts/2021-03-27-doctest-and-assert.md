@@ -53,5 +53,5 @@ Test passed.
 <br>
 **See also:**
 
-[doctest](https://docs.python.org/3/library/doctest.html)
-official documentation to learn more.
+- [doctest](https://docs.python.org/3/library/doctest.html)
+  official documentation to learn more.
