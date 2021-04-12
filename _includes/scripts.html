@@ -12,14 +12,19 @@
 
 <!-- wow.js CDN & Activation -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
-<script> new WOW().init(); </script>
+<script>
+  new WOW().init();
+</script>
 
 <!-- Card Animation jQuery -->
 <script src="{{ '/assets/js/card-animation.js' | relative_url }}"></script>
 
 <!-- Initialize all tooltips -->
 <script>
-$(function () {
-    $('[data-toggle="tooltip"]').tooltip()
-})
+  $(function () {
+    $('[data-toggle="tooltip"]').tooltip();
+  });
 </script>
+
+<!-- Mode switcher -->
+<script src="{{ '/assets/js/mode-switcher.js' | relative_url }}"></script>
