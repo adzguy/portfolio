@@ -7,6 +7,7 @@ description: Another useful tool to test code in a quick manner..
 ---
 
 <br>
+
 **Assert statements** are used when debugging code. It has a condition which is supported to be always `True`. If the condition is `False` then assert halts the program and gives ad `AssertionError`.
 
 Syntax for using Assert:
@@ -15,7 +16,7 @@ Syntax for using Assert:
 
 Error message is an optional in assert statement which can give custom error message along with `AssertionError`.
 
-**Let's take an example:**<br>
+**For example:**<br>
 
 Without Error Message
 
@@ -52,6 +53,7 @@ AssertionError: List is empty
 ```
 
 <br>
+
 **See also:**
 
 - [assert statement](https://docs.python.org/3/reference/simple_stmts.html#grammar-token-assert-stmt)

@@ -28,9 +28,8 @@ Python provides an excellent module to handle the iterators and that is called i
 
 <br>
 
-##### product()
+### product()
 
-<br>
 To find Cartesian Product of three lists:
 
 ```python
@@ -52,8 +51,9 @@ To find Cartesian Product of three lists:
 ```
 
 <br>
-##### groupby()
-<br>
+
+### groupby()
+
 Find length of each items in the String:
 
 ```python
@@ -63,8 +63,9 @@ Find length of each items in the String:
 ```
 
 <br>
-##### permutations()
-<br>
+
+### permutations()
+
 Permutations function finds all the permutations (order matters) and returns iterator yielding tuples.
 
 Find all permutations of the items in the list:
@@ -80,9 +81,9 @@ Find all permutations of the items in the list:
 ```
 
 <br>
-##### combinations()
 
-<br>
+### combinations()
+
 Combinations function finds all the combinations (order does not matter) and returns iterator yielding tuples.
 
 Find all permutations of the items in the list:
@@ -99,6 +100,7 @@ Find all permutations of the items in the list:
 ```
 
 <br>
+
 **See also:**
 
 - [itertools module](https://docs.python.org/3/library/itertools.html#itertools.groupby) in Python documentation for more functions like in the above.

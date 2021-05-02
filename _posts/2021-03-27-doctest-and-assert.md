@@ -7,6 +7,7 @@ description: Useful doctest module to test code in a quick manner..
 ---
 
 <br>
+
 **Doctest** is a module from Python language's standard library that allows to generate tests based on output from the standard Python interpreter shell. This module finds patterns in the **docstring** that looks like interactive shell commands. Docstring usually are used for the description of a class or a function to better understand of the code and its purposes.
 
 Let's look at the use case of doctest in an example:
@@ -51,6 +52,7 @@ Test passed.
 ```
 
 <br>
+
 **See also:**
 
 - [doctest](https://docs.python.org/3/library/doctest.html)
