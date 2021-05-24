@@ -1,6 +1,6 @@
 ---
 title: Challenges in Mobile Application Testing
-tags: [Testing]
+tags: [testing]
 style: fill
 color: light
 description: Short answer, College postings..

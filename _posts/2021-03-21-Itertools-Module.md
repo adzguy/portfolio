@@ -1,6 +1,6 @@
 ---
 title: itertools Module
-tags: [Python]
+tags: [python]
 style: fill
 color: primary
 description: What is itertools module for? Today, I will go over itertools module..

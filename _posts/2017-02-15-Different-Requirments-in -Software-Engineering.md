@@ -1,6 +1,6 @@
 ---
 title: Different levels of Requirements in Software Engineering
-tags: [General Topics]
+tags: [general]
 style: fill
 color: dark
 description: Short answer, College postings..
