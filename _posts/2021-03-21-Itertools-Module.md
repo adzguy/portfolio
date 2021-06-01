@@ -86,7 +86,7 @@ Find all permutations of the items in the list:
 
 Combinations function finds all the combinations (order does not matter) and returns iterator yielding tuples.
 
-Find all permutations of the items in the list:
+Find all combinations of the items in the list:
 
 ```python
 >>> import itertools
