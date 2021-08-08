@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : ADZGuy
 description         : >-                               # >- means to ignore newlines until "url:"
-                      Full Stack Software Developer | VueJS and Sass | Flask 
+                      Software Engineer
 
 url                 : "https://adzguy.github.io"                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -11,10 +11,10 @@ repository          : adzguy/portfolio    # repository metadata on GitHub Pages 
 ### Author Info ###
 author:
   name              : Davron
-  image             : /assets/img/profile/profile.JPG
+  image             : /assets/img/profile/profile1.JPG
 # behance           : your_username
 # dribbble          : your_username
-  email             : davron.nurmetov@gmail.com
+# email             : davron.nurmetov@gmail.com
 # facebook          : your_username
   github            : adzguy
 # gitlab            : your_username

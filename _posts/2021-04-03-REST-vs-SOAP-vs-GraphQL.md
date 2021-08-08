@@ -1,6 +1,6 @@
 ---
 title: REST vs SOAP vs GraphQL
-tags: [networking]
+tags: [Networking]
 style: fill
 color: secondary
 description: This weekend I will define and compare REST, SOAP, and GraphQL..

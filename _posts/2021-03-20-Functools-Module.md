@@ -1,6 +1,6 @@
 ---
 title: functools Module
-tags: [python]
+tags: [Python]
 style: fill
 color: primary
 description: I will go over some useful higher order functions of functools module..

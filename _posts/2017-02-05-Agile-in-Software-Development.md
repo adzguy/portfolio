@@ -1,6 +1,6 @@
 ---
 title: How agile methods accelerate development and deployment?
-tags: [general]
+tags: [General]
 style: fill
 color: dark
 description: Short answer, College postings..

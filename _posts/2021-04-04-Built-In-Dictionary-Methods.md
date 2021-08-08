@@ -1,9 +1,10 @@
 ---
 title: Build-in Dictionary Methods
-tags: [python]
+tags: [Python]
 style: fill
 color: primary
 description: These article is an overview of methods that apply to dictionaries..
+comments: true
 ---
 
 <br>

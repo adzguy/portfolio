@@ -1,6 +1,6 @@
 ---
 title: White-Box vs Black-Box Testing Efficiency | QA
-tags: [testing]
+tags: [Testing]
 style: fill
 color: light
 description: Short answer, College postings..

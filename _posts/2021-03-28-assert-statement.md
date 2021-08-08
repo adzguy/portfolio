@@ -1,6 +1,6 @@
 ---
 title: assert statement
-tags: [python]
+tags: [Python]
 style: fill
 color: primary
 description: Another useful tool to test code in a quick manner..
