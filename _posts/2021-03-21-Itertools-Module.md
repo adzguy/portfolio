@@ -92,7 +92,7 @@ Find all combinations of the items in the list:
 >>> import itertools
 >>> lst = [0, 1, 2]
 >>> comb = itertools.combinations(lst)
->>> print(per)
+>>> print(comb)
 <itertools.combinations object at 0x1011dd5f0>
 >>> print(list(comb))
 [(0, 1), (0, 2), (1, 2)]
